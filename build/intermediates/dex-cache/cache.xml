@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\kauti\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\kauti\Downloads\PocCode\WifiDirectDemo1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_d12f48d658f6af509574314d51b292716d712e79\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kauti\Downloads\PocCode\WifiDirectDemo1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="282f9e675c458111fcceb1bd99f19b8fa9a9354b">
+        <dex dex="C:\Users\kauti\Downloads\PocCode\WifiDirectDemo1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_f94f555a168b52c0d04daee47d435b8f424a3e67\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kauti\Downloads\PocCode\WifiDirectDemo1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\kauti\Downloads\PocCode\WifiDirectDemo1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_953a5ee572675db0c0180ac5a3b3edd0f0620811\classes.dex" />
+    </item>
+
+</items>
